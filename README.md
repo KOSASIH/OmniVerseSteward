@@ -1,6 +1,16 @@
 # OmniVerseSteward
 Stewarding the integrity and harmony of the multiverse through advanced AI control.
 
+# Contents 
+- [Description](#description)
+- [Vision And Mission](#vision-and-mission) 
+
+# Description 
+
+OmniVerseSteward stands as the guardian of interdimensional balance and coherence, wielding advanced AI technologies to oversee and maintain the integrity of the multiverse. Tasked with preserving harmony across countless realities, it utilizes sophisticated control mechanisms to ensure stability, prevent disruptions, and safeguard the interconnected fabric of the vast and diverse multiverse.
+
+# Vision And Mission
+
 # Guide 
 
 ```python
