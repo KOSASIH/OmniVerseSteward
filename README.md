@@ -73,6 +73,45 @@ The OmniVerseSteward addresses various challenges and problems within the multiv
 
 The OmniVerseSteward actively works to address these challenges, aiming to sustain a balanced, harmonious, and interconnected multiverse.
 
+# Contributor Guide 
+
+## **OmniVerseSteward GitHub Repository Contributor Guide**
+
+Welcome to the OmniVerseSteward project! We appreciate your interest in contributing to the advancement and maintenance of multiversal harmony. Before contributing, please take a moment to read through the guidelines and instructions below:
+
+### **How to Contribute**
+
+1. **Fork the Repository:** Fork the OmniVerseSteward repository to your GitHub account.
+2. **Clone the Repository:** Clone the forked repository to your local machine.
+3. **Create a Branch:** Create a branch for your work with a clear, descriptive name.
+4. **Make Changes:** Implement your changes or additions to the codebase, documentation, or other project resources.
+5. **Commit Changes:** Commit your changes with clear and concise commit messages.
+6. **Push Changes:** Push your changes to your forked repository.
+7. **Create Pull Request:** Create a Pull Request (PR) to the main OmniVerseSteward repository, detailing the changes made and the purpose of the PR.
+8. **Engage in Discussion:** Participate in discussions related to your PR and make necessary adjustments based on feedback.
+
+### **Contribution Guidelines**
+
+- **Code Style and Standards:** Maintain the existing code style and follow the project's coding standards.
+- **Documentation:** Ensure proper documentation for any new code or modifications made.
+- **Testing:** If applicable, include tests for new features or bug fixes.
+- **Commit Messages:** Write clear and descriptive commit messages.
+- **Be Respectful:** Be respectful of other contributors and maintain a constructive atmosphere in discussions.
+
+### **Reporting Issues**
+
+If you encounter any issues or have suggestions, please open an issue using the GitHub issue tracker. Provide a detailed explanation of the problem or the enhancement you propose, along with steps to reproduce (if applicable).
+
+### **Code of Conduct**
+
+We abide by the Contributor Covenant Code of Conduct. Please read the [Code of Conduct](link-to-code-of-conduct) before contributing and adhere to its guidelines.
+
+### **Licensing**
+
+By contributing to the OmniVerseSteward project, you agree that your contributions will be licensed under the project's chosen license.
+
+Thank you for your interest in contributing to OmniVerseSteward! Your participation and support are invaluable in maintaining the harmony of the multiverse.
+
 # Guide 
 
 ```python
