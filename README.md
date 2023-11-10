@@ -8,7 +8,8 @@ Stewarding the integrity and harmony of the multiverse through advanced AI contr
 - [Problems To Solve](#problems-to-solve)
 - [Contributor Guide](#contributor-guide)
 - [Guide](#guide)
-- [Roadmap](#roadmap) 
+- [Roadmap](#roadmap)
+- [Aknowledgement](aknowledgement.md) 
   
 
 # Description 
