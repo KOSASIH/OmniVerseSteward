@@ -671,6 +671,8 @@ The tool also includes interactive features for exploring and querying the data.
 
 Feel free to customize and expand upon this code to meet your specific requirements and data structure.
 
+# Roadmap
+
 ## **OmniVerseSteward Roadmap**
 
 ### **Version 1.0 - Foundation (Next 6 Months)**
