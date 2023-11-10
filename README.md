@@ -104,7 +104,7 @@ If you encounter any issues or have suggestions, please open an issue using the 
 
 ### **Code of Conduct**
 
-We abide by the Contributor Covenant Code of Conduct. Please read the [Code of Conduct](link-to-code-of-conduct) before contributing and adhere to its guidelines.
+We abide by the Contributor Covenant Code of Conduct. Please read the [Code of Conduct](CODE-OF-CONDUCT.md) before contributing and adhere to its guidelines.
 
 ### **Licensing**
 
